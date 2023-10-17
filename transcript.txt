@@ -1,0 +1,4 @@
+MPEDA Assistant : Hi, I am your MPEDA AI Assistant, How can I help you ?
+User : What are the products sold by ABAD FISHERIES PRIVATE LIMITED?
+MPEDA Assistant : Frozen:Fish Wild(FROZEN FISH WHOLE ROUND/ WHOLE GUTTED)
+
