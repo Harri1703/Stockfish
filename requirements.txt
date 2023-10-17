@@ -1,0 +1,4 @@
+flask
+pypyodbc
+langchain.agents
+langchain.llms
